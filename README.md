@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Many Projects](https://play.google.com/store/search?q=pub%3A%20Think%20Dome%20Studio&c=apps)
 
-- 🌱 I’m currently learning **Unity3D ,Blender , Unreal Engine**
+- 🌱 I’m currently learning **Unity3D ,Blender , C#**
 
 - 💬 Ask me about **Games and C#**
 
 - 📫 How to reach me **muneebzulfiqar007@gmail.com**
 
-- ⚡ Fun fact **I Think im funny XD**
+- ⚡ Fun fact **I Love Linux XD**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
